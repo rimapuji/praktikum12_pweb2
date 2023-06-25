@@ -1,4 +1,4 @@
-# Praktikum 10: Pagination dan Pencarian
+# Praktikum 12: API
 
 ```bash
 Nama    : Rima Puji Lestari
